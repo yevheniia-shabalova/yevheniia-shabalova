@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github.com/jnsnrz/github-stats/blob/master/generated/languages.svg)
-![](https://github.com/jnsnrz/github-stats/blob/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/jnsnrz/github-stats/9e1840ca072a82d8dd7d169561b4aacdcd4770cd/generated/languages.svg)
+![](https://raw.githubusercontent.com/jnsnrz/github-stats/9e1840ca072a82d8dd7d169561b4aacdcd4770cd/generated/overview.svg)
