@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 I have been working as a Front End developer since 2016. 
 
-I am from Ukraine, currently living in Kyiv.
+I am from Ukraine, currently living in Toronto, ON.
 
-Now I am working at Soft Serve as Middle Software Engineer.
+Now I am working at SoftServe as Middle Software Engineer.
 
 ## Technology stack:
 
