@@ -21,7 +21,7 @@ I have been working as a Front End developer since 2016.
 
 I am from Ukraine, currently living in Toronto, ON.
 
-Now I am working at SoftServe as Middle Software Engineer.
+Now I am working at SoftServe as Software Engineer.
 
 ## Technology stack:
 
