@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ## About Me:
 
-I have been working as a Front End developer since 2016. 
+I have been working as a Frontend Developer since 2016. 
 
 I am from Ukraine, currently living in Toronto, ON.
-
-Now I am working at SoftServe as Software Engineer.
 
 ## Technology stack:
 
