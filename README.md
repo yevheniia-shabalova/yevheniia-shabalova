@@ -17,9 +17,12 @@ Here are some ideas to get you started:
 
 ## About Me:
 
-I have been working as a Frontend Developer since 2016. 
+Detail-oriented frontend developer with more than 6 years of experience with a background in building scalable web applications and websites in e-commerce, fintech, mining industries the destination of which is: simplification, time and resource saving.
 
-I am from Ukraine, currently living in Toronto, ON.
+Technology stack: Angular, Angular Material, Rx.js, TypeScript, JavaScript, HTML, SCSS, Responsive markup, Flexbox, HighCharts, jQuery, Bootstrap, Git.
+
+Education: HIGHER MEDICAL EDUCATIONAL INSTITUTION OF UKRAINE
+"UKRAINIAN MEDICAL STOMATOLOGICAL ACADEMY" (Medical practitioner in the specialty "Psychiatry")
 
 ## Technology stack:
 
