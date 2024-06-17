@@ -44,5 +44,5 @@ Education: HIGHER MEDICAL EDUCATIONAL INSTITUTION OF UKRAINE
 
 ## Github Stats:
 
-![](https://raw.githubusercontent.com/jnsnrz/github-stats/9e1840ca072a82d8dd7d169561b4aacdcd4770cd/generated/languages.svg)
-![](https://raw.githubusercontent.com/jnsnrz/github-stats/9e1840ca072a82d8dd7d169561b4aacdcd4770cd/generated/overview.svg)
+![](https://raw.githubusercontent.com/yevheniia-shabalova/github-stats/9e1840ca072a82d8dd7d169561b4aacdcd4770cd/generated/languages.svg)
+![](https://raw.githubusercontent.com/yevheniia-shabalova/github-stats/9e1840ca072a82d8dd7d169561b4aacdcd4770cd/generated/overview.svg)
