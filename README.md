@@ -26,7 +26,16 @@ Education: HIGHER MEDICAL EDUCATIONAL INSTITUTION OF UKRAINE
 
 ## Technology stack:
 
-<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angular-icon.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/master/logos/html-5.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/master/logos/css-3.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/gilbarbara/logos/blob/master/logos/jasmine.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webstorm.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/nestjs.svg" width="30">
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angular-icon.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/create-react-app.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/html-5.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/css-3.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/gilbarbara/logos/blob/main/logos/jasmine.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webstorm.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/f4c8e8b933aa80ce83b6d6d387e016bf4cb4e376/logos/nestjs.svg" width="30">
 
 
 ## You can find me on:
