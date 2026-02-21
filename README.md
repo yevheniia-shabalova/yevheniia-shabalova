@@ -17,15 +17,16 @@ Here are some ideas to get you started:
 
 ## About Me:
 
-Detail-oriented frontend developer with more than 6 years of experience with a background in building scalable web applications and websites in e-commerce, fintech, mining industries the destination of which is: simplification, time and resource saving.
+Detail-oriented frontend developer with more than 9 years of experience with a background in building scalable web applications and websites in e-commerce, fintech, mining industries the destination of which is: simplification, time and resource saving.
 
-Technology stack: Angular, Angular Material, Rx.js, TypeScript, JavaScript, HTML, SCSS, Responsive markup, Flexbox, HighCharts, jQuery, Bootstrap, Git.
+Technology stack: Angular, Angular Material, Rx.js, React, Next.js, TypeScript, JavaScript, HTML, SCSS, Responsive markup, Flexbox, HighCharts, jQuery, Bootstrap, Git.
 
 Education: HIGHER MEDICAL EDUCATIONAL INSTITUTION OF UKRAINE
 "UKRAINIAN MEDICAL STOMATOLOGICAL ACADEMY" (Medical practitioner in the specialty "Psychiatry")
 
 ## Technology stack:
 
+<img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/react.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/get-icon/geticon/fc0f660daee147afb4a56c64e12bde6486b73e39/icons/angular-icon.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/create-react-app.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" width="30">&nbsp;&nbsp;&nbsp;&nbsp;
