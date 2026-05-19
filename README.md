@@ -41,7 +41,7 @@ Education: HIGHER MEDICAL EDUCATIONAL INSTITUTION OF UKRAINE
 
 ## You can find me on:
 - [Linkedin](https://www.linkedin.com/in/yevheniia-shabalova/)
-- [Indeed](https://my.indeed.com/p/shabalovay-z0vvj59)
+- [Indeed](https://profile.indeed.com/p/yevheniias-wm38r48)
 
 ## Github Stats:
 
